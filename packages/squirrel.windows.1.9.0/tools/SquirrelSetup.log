@@ -1,0 +1,50 @@
+﻿2018-12-23 03:17:29> Program: Starting Squirrel Updater: --releasify MyApp.1.0.0.nupkg
+2018-12-23 03:17:29> Program: Bootstrapper EXE found at:D:\Все по учебе\Вторая вышка\Курсач\Program KeyGen\KeyGen\packages\squirrel.windows.1.9.0\tools\Setup.exe
+2018-12-23 03:17:29> Unhandled exception: System.IO.FileNotFoundException: Файл 'MyApp.1.0.0.nupkg' не найден.
+Имя файла: 'MyApp.1.0.0.nupkg'
+   в System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   в System.IO.File.InternalCopy(String sourceFileName, String destFileName, Boolean overwrite, Boolean checkHost)
+   в System.IO.File.Copy(String sourceFileName, String destFileName, Boolean overwrite)
+   в Squirrel.Update.Program.Releasify(String package, String targetDir, String packagesDir, String bootstrapperExe, String backgroundGif, String signingOpts, String baseUrl, String setupIcon, Boolean generateMsi, String frameworkVersion, Boolean generateDeltas)
+   в Squirrel.Update.Program.executeCommandLine(String[] args)
+   в Squirrel.Update.Program.main(String[] args)
+2018-12-23 03:23:58> Program: Starting Squirrel Updater: --releasify MyPackage.1.0.0.nupkg
+2018-12-23 03:23:59> Program: Bootstrapper EXE found at:D:\Все по учебе\Вторая вышка\Курсач\Program KeyGen\KeyGen\packages\squirrel.windows.1.9.0\tools\Setup.exe
+2018-12-23 03:23:59> Unhandled exception: System.IO.FileNotFoundException: Файл 'MyPackage.1.0.0.nupkg' не найден.
+Имя файла: 'MyPackage.1.0.0.nupkg'
+   в System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   в System.IO.File.InternalCopy(String sourceFileName, String destFileName, Boolean overwrite, Boolean checkHost)
+   в System.IO.File.Copy(String sourceFileName, String destFileName, Boolean overwrite)
+   в Squirrel.Update.Program.Releasify(String package, String targetDir, String packagesDir, String bootstrapperExe, String backgroundGif, String signingOpts, String baseUrl, String setupIcon, Boolean generateMsi, String frameworkVersion, Boolean generateDeltas)
+   в Squirrel.Update.Program.executeCommandLine(String[] args)
+   в Squirrel.Update.Program.main(String[] args)
+2018-12-23 03:29:48> Program: Starting Squirrel Updater: --releasify MyPackage.1.0.0.nupkg
+2018-12-23 03:29:48> Program: Bootstrapper EXE found at:D:\Все по учебе\Вторая вышка\Курсач\Program KeyGen\KeyGen\packages\squirrel.windows.1.9.0\tools\Setup.exe
+2018-12-23 03:29:48> Unhandled exception: System.IO.FileNotFoundException: Файл 'MyPackage.1.0.0.nupkg' не найден.
+Имя файла: 'MyPackage.1.0.0.nupkg'
+   в System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   в System.IO.File.InternalCopy(String sourceFileName, String destFileName, Boolean overwrite, Boolean checkHost)
+   в System.IO.File.Copy(String sourceFileName, String destFileName, Boolean overwrite)
+   в Squirrel.Update.Program.Releasify(String package, String targetDir, String packagesDir, String bootstrapperExe, String backgroundGif, String signingOpts, String baseUrl, String setupIcon, Boolean generateMsi, String frameworkVersion, Boolean generateDeltas)
+   в Squirrel.Update.Program.executeCommandLine(String[] args)
+   в Squirrel.Update.Program.main(String[] args)
+2018-12-23 03:33:01> Program: Starting Squirrel Updater: --releasify MyApp.1.0.0.nupk
+2018-12-23 03:33:01> Program: Bootstrapper EXE found at:D:\Все по учебе\Вторая вышка\Курсач\Program KeyGen\KeyGen\packages\squirrel.windows.1.9.0\tools\Setup.exe
+2018-12-23 03:33:01> Unhandled exception: System.IO.FileNotFoundException: Файл 'MyApp.1.0.0.nupk' не найден.
+Имя файла: 'MyApp.1.0.0.nupk'
+   в System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   в System.IO.File.InternalCopy(String sourceFileName, String destFileName, Boolean overwrite, Boolean checkHost)
+   в System.IO.File.Copy(String sourceFileName, String destFileName, Boolean overwrite)
+   в Squirrel.Update.Program.Releasify(String package, String targetDir, String packagesDir, String bootstrapperExe, String backgroundGif, String signingOpts, String baseUrl, String setupIcon, Boolean generateMsi, String frameworkVersion, Boolean generateDeltas)
+   в Squirrel.Update.Program.executeCommandLine(String[] args)
+   в Squirrel.Update.Program.main(String[] args)
+2018-12-23 03:34:09> Program: Starting Squirrel Updater: --releasify MyApp.1.0.0.nupk
+2018-12-23 03:34:09> Program: Bootstrapper EXE found at:D:\Все по учебе\Вторая вышка\Курсач\Program KeyGen\KeyGen\packages\squirrel.windows.1.9.0\tools\Setup.exe
+2018-12-23 03:34:09> Unhandled exception: System.IO.FileNotFoundException: Файл 'MyApp.1.0.0.nupk' не найден.
+Имя файла: 'MyApp.1.0.0.nupk'
+   в System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   в System.IO.File.InternalCopy(String sourceFileName, String destFileName, Boolean overwrite, Boolean checkHost)
+   в System.IO.File.Copy(String sourceFileName, String destFileName, Boolean overwrite)
+   в Squirrel.Update.Program.Releasify(String package, String targetDir, String packagesDir, String bootstrapperExe, String backgroundGif, String signingOpts, String baseUrl, String setupIcon, Boolean generateMsi, String frameworkVersion, Boolean generateDeltas)
+   в Squirrel.Update.Program.executeCommandLine(String[] args)
+   в Squirrel.Update.Program.main(String[] args)
